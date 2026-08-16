@@ -1,0 +1,82 @@
+- VillagerScreen: villagers show all trades at once instead of pages
+	- ModernTrades: extension mod that changes trading into modeen minecraft system
+	- BetterTrades: extension mod that changes trading into BTWsystem
+- AchievementLib: achievements shown in a modern minecraft style, adds achievement pages for each no-parrent achievements
+	- MoreAchievements: extension mod that adds more achievements
+- Meteorites: meteors fall randomly each 16-32 days and during moon events, meteor structures generates randomly in all overworld biomes, meteors fall in the end during dragon fight
+- TearDown: blocks save breaking progress, tools lose durablity not when block mined but while block is being mined
+- NineChallenges: PD and SPD challenges
+	- Badder Bosses
+		- Wither
+			- +33% health
+			- +100% regeneration
+			- phase 1
+				- can see through walls
+				- wither skulls could be replaced with fireballs
+			- phase 2
+				- blue wither skulls appear more often
+				- moves faster
+		- Dragon
+			- +50% health
+			- +100% crystals
+			- always loaded
+			- shoots fireballs
+			- when all crystal broken makes endermen target players that don't wear pumpkin
+	- Hostile Champions
+		- hostile mobs could spawn with champion buff
+			- Blazing (orange)
+				- +25% melee damage
+				- ignites target when attacks
+				- spreads fire on death
+				- wont ignite or spread flame if wet
+				- wont take damage from fire
+			- Projecting (purple)
+				- +25% projectile damage
+				- +100% damage area
+			- Antimagic (green)
+				- -50% damage taken if weapon has magic aspect
+				- immune to enchants
+			- Giant
+				- x1.5 hitbox
+				- x1.5 model
+				- x3.375 heath
+			- Blessed (yellow)
+				- +300% regeneration speed
+				- +300% regeneration amount
+				- when attacked in melee requires silver or magic aspects
+			- Growing (red)
+				- +20% regeneration speed
+				- +20% regeneration amount
+				- +20% damage
+				- +20% effective HP (max hp and hp, so 12/20 with 45% increase is 17.4/29)
+				- increases by 1% every 30 seconds it exists and every 5 seconds it has target
+	- On Diet
+		- eaten item gives ceiling of 1/2 of all food stats
+		- eaten item gives slightly increased sum of ingredients used to craft
+		- if nutrition of eaten item is 1 it gets added to satiation and then satiation gets calculated
+		- player starts with 5 shanks
+		- each 5 levels give +1 shank up to +7 at level 35, in total 13/20 shanks
+	- Faith is My Armor
+		- Resistance effect gives less protection
+		- armor player wears has lowered protection
+	- Pharmacophobia
+		- for player Regeneration replaced by Poison
+		- for player Instant Health replaced by Instant Damage
+	- Barren Land
+		- all plants besides crops wont grow
+		- cropses blight rate increased as well as chance to die of blight
+		- stemses death chance on growing block is (blocks grown * blocks grown * 10)%
+		- flowers wont spawn naturally
+		- leaves wont drop fruits
+		- grass wont drop seeds
+		- villagers wont sell plants
+	- Swarm Intelligence
+		- if mob sees player it tells other mobs it could see target location which they would start targeting
+		- targeted mobs wont know that their goal is player, they would just wander to target location
+	- Into Darkness
+		- minimal mob spawn light increased
+		- player cant see anything in 0 light aka pitch black
+		- player cant see anything in moon light, all moons are new moons
+	- Forbidden Runes
+		- enchanting table can enchant only books
+		- -66% experience from consuming items
