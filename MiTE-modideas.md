@@ -1,7 +1,5 @@
 - VillagerScreen: villagers show all trades at once instead of pages
 	- ModernTrades: extension mod that changes trading into modeen minecraft system
 	- BetterTrades: extension mod that changes trading into BTWsystem
-- AchievementLib: achievements shown in a modern minecraft style, adds achievement pages for each no-parrent achievements
-	- MoreAchievements: extension mod that adds more achievements
 - Meteorites: meteors fall randomly each 16-32 days and during moon events, meteor structures generates randomly in all overworld biomes, meteors fall in the end during dragon fight
 - TearDown: blocks save breaking progress, tools lose durablity not when block mined but while block is being mined
